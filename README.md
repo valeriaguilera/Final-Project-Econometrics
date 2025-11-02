@@ -1,0 +1,2 @@
+# Final-Project-Econometrics
+MODELOS DE ARMA, ARIMA, COINTEGRATION, ETC.
